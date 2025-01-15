@@ -1,0 +1,10 @@
+C:\Users\shuma\source\repos\ArithmeticExpressionAnalyzer\ArithmeticExpressionAnalyzer\obj\Debug\ArithmeticExpressionAnalyzer.csproj.AssemblyReference.cache
+C:\Users\shuma\source\repos\ArithmeticExpressionAnalyzer\ArithmeticExpressionAnalyzer\obj\Debug\ArithmeticExpressionAnalyzer.MainForm.resources
+C:\Users\shuma\source\repos\ArithmeticExpressionAnalyzer\ArithmeticExpressionAnalyzer\obj\Debug\ArithmeticExpressionAnalyzer.Properties.Resources.resources
+C:\Users\shuma\source\repos\ArithmeticExpressionAnalyzer\ArithmeticExpressionAnalyzer\obj\Debug\ArithmeticExpressionAnalyzer.csproj.GenerateResource.cache
+C:\Users\shuma\source\repos\ArithmeticExpressionAnalyzer\ArithmeticExpressionAnalyzer\obj\Debug\ArithmeticExpressionAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\shuma\source\repos\ArithmeticExpressionAnalyzer\ArithmeticExpressionAnalyzer\bin\Debug\ArithmeticExpressionAnalyzer.exe.config
+C:\Users\shuma\source\repos\ArithmeticExpressionAnalyzer\ArithmeticExpressionAnalyzer\bin\Debug\ArithmeticExpressionAnalyzer.exe
+C:\Users\shuma\source\repos\ArithmeticExpressionAnalyzer\ArithmeticExpressionAnalyzer\bin\Debug\ArithmeticExpressionAnalyzer.pdb
+C:\Users\shuma\source\repos\ArithmeticExpressionAnalyzer\ArithmeticExpressionAnalyzer\obj\Debug\ArithmeticExpressionAnalyzer.exe
+C:\Users\shuma\source\repos\ArithmeticExpressionAnalyzer\ArithmeticExpressionAnalyzer\obj\Debug\ArithmeticExpressionAnalyzer.pdb
